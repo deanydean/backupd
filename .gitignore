@@ -1,0 +1,5 @@
+*.swp
+*.pyc
+backupd.yaml
+backupd.log
+backupd.pid
